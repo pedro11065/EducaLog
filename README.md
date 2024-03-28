@@ -1,7 +1,6 @@
 # Educalog
- Gerenciador de alunos
 
-O Educalog é um projeto criado por mim visando simular as execuções realizadas em gerenciadores de alunos, servindo como ferramenta para a criação, busca, exclusão, edição e listagem dos mesmos. O projeto, mesmo sendo bem novo, está passando direito por atualizações de otimização de estrutura e novas features, e estou guardando tudo separadamente em pastas, tendo em cada pasta uma versão do programa.
+O Educalog é um projeto criado visando simular as execuções realizadas em gerenciadores de alunos, servindo como ferramenta para a criação, busca, exclusão, edição e listagem dos mesmos. O projeto, mesmo sendo bem novo, está passando direito por atualizações de otimização de estrutura e novas features, e estou guardando tudo separadamente em pastas, tendo em cada pasta uma versão do programa.
 
 De pouco em pouco, o projeto vem crescendo mais e mais, talvez um dia deixando de ser somente um projeto e virando algo real que possa ajudar diversas escolas e faculdades no gerenciamento de seus alunos..tudo é possível!!!
 
