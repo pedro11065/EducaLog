@@ -1,6 +1,5 @@
-#VERSÃO 1.1 DO EDUCALOG → GERENCIADOR DE ALUNOS
-#UPDATE → Reformulação da estrutura de armazenamento de dados para a futura integração com o banco de dados
-#PostGreSQL nas atualizações futuras.
+#VERSÃO 1.2 DO EDUCALOG → SISTEMA DE GESTÃO EDUCACIONAL
+#UPDATE → Sincronização com banco de dados PostGreSQL
 
 #import psycopg2
 #from psycopg2 import Error
